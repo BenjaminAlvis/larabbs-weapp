@@ -7,7 +7,7 @@
     "minified": false
   },
   "compileType": "miniprogram",
-  "appid": "	wx093b5ccaf82f1f22",
+  "appid": "wx093b5ccaf82f1f22",
   "projectname": "larabbs-weapp",
   "miniprogramRoot": "./dist"
 }
